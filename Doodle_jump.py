@@ -4,7 +4,7 @@ Purpose: This turtle program is based on a mobile game called Doodle Jump. The g
 Controls: "Left" key to go left
           "Right" key to go right
 
-Author: Ilia 
+Author: Ilia Fatemi
 Code reviewer: Ryan Daryani
 Date created: 2019-10-02
 Date modified: 2019-10-19
