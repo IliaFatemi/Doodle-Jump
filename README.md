@@ -1,7 +1,7 @@
 # Doodle-Jump
-Doodle jump game made in python
+Doodle jump game made in python.
+This program is built using the turtle module.  
 
-DOODLE JUMP INSTRUCTIONS
 
 CONTROLS
 ---------------------
